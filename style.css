@@ -1,0 +1,330 @@
+
+img{
+    max-width: 100%;
+}
+.menu1{
+    background-color: #482424;
+}
+.top-menu ul{
+    list-style-type: none;
+
+}
+.top-menu ul li a{
+    color: #fff !important;
+    padding: 15px 0px;
+    
+}
+.menubar ul li a.active{
+    border-bottom: 2px solid #f05252;
+    padding-bottom: 20px;
+}
+.signup-btn {
+    background-color: #f05252;
+    padding: 0px 20px;
+    
+}
+.menu2{
+    background-color: #744242;
+}
+.custom-toggler{
+    border-color: #fff !important;
+}
+.banner-section{
+    background-color: #fbf9f9;
+}
+.banner-content h2{
+    font-size: 20px;
+    font-weight: 300px;
+}
+.banner-title{
+    font-size: 48px;
+    font-weight: 800px;
+    color: #724242;
+}
+.banner-sub-title{
+    color: #f05454;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 0px;
+}
+.button{
+   padding-top: 40px;
+}
+.button a{
+    color: #fff;
+    background-color: #724242;
+    padding: 15px 30px;
+    text-decoration: none; 
+}
+.banner-content a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.banner-img-2{
+    top: 50px;
+    position: relative;
+}
+.feature-section{
+    padding: 80px 0px;
+}
+.client-logos ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.client-logos ul li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+.product4{
+    padding-top: 15px;
+}
+.tab-section{
+    padding: 80px 0px;
+}
+.tab-title ul{
+    padding: 30px 0px;
+    justify-content: center;
+}
+.tab-title ul li a{
+    color: #724242;
+    font-size: 18px;
+    
+}
+.tab-title ul li a.active{
+    font-weight: bold;
+}
+.product{
+    height: 250px;
+    width: 100%;
+    border: 1px solid #ededed;
+    position: relative;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.bottom-left{
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+    color: #724242;
+    font-size: 22px;
+}
+.top-left{
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    color: #724242;
+    font-size: 22px;
+    font-weight: 500;
+}
+.top-right{
+    position: absolute;
+    top: 15px;
+    right: 0px;
+    color: #fff;
+    padding:5px;
+    font-size: 14px;
+    background-color: #f05252;
+    border-radius: 25px 0px 0px 25px;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+    color: #dad8d8;
+}
+
+.calltoaction-section{
+    background-color: #482424;
+    padding: 80px 0px;
+}
+.content h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+}
+.content p{
+    font-size: 18px;
+    color: #fff;
+}
+
+.search-area{
+   background-color: #482424;
+   color:  #744242;
+   border: 1px solid #744242;
+   border-radius: 50px;
+   padding: 10px 20px;
+}
+.search-area:focus{
+    border: 1px solid #744242;
+    box-shadow: none;
+    outline: none;
+    background-color: transparent;
+}
+.search-btn{
+    background-color: #f05252;
+    border-radius: 50px;
+    padding: 10px 40px;
+    font-size: 30px;
+}
+.search-btn:focus{
+    box-shadow: none;
+}
+.news-title h2{
+    font-size: 48px;
+    text-align: center;
+    padding: 80px 0px;
+    color: #482424;
+}
+.news-area{
+    background-image: url(image/newsi-mg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 300px;
+    position: relative;
+    
+}
+.news-content{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 30px;
+}
+.news-content h3{
+    font-size: 24px;
+    color: #fff;
+}
+.news-content p{
+    font-size: 16px;
+    color: #fff;
+}
+
+.footer-section{
+    background-color: #f8fefe;
+    margin-top: 80px;
+    padding-top: 50px;
+
+}
+.footer-title{
+    color: #482424;
+}
+.get-touch-content .icon-background{
+    background-color: #f1f0f0;
+    color: #f05252;
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 10px 15px;
+    margin: 10px 0px;
+}
+.get-touch-content h4{
+    font-size: 22px;
+    padding: 20px 0px 0px 20px;
+}
+.sales-content ul{
+    list-style-type: none;
+    padding: 10px 0px;
+}
+.sales-content ul li{
+    font-size: 20px;
+    padding: 5px 0px;
+}
+.sales-content ul li a{
+    color: #482424;    
+}
+.sales-content ul li a:hover{
+    text-decoration: none;
+}
+.support-content ul{
+    list-style-type: none;
+    padding: 10px 0px;
+}
+.support-content ul li{
+    font-size: 20px;
+    padding: 5px 0px;
+}
+.support-content ul li a{
+    color: #482424;    
+}
+.support-content ul li a:hover{
+    text-decoration: none;
+}
+.social-icon{
+    border-top: 1px solid #ededed;
+    padding: 30px 0px;
+    text-align: center;
+}
+.social-icon i{
+    color: #482424;
+    padding: 10px;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .banner-section{
+        padding: 30px 0px;
+    }
+    .banner-content h1{
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .banner-content h2{
+        font-size: 16px;
+    }
+    .button{
+        padding-top: 10px;
+    }
+    .banner-img-2{
+        top: 60px;
+    }
+    .search-area form{
+      width: 300px;
+      margin-top: 30px;
+    }
+    .search-area button{
+        margin-left: -50px;
+    }
+    .content h2{
+        font-size: 32px;
+    }
+   
+
+  }
+@media only screen and (width: 768px){
+    .get-touch-content h4{
+        font-size: 18px;
+        margin-left: 0;
+    }
+    .get-touch-content .icon-background{
+        background-color: #f1f0f0;
+        border-radius: 50%;
+        padding: 5px 10px;
+        margin: 10px 0px;
+    }
+    .icon-background i{
+        color: #f05252;
+        font-size: 20px;
+    }
+}
+  
+@media only screen and (max-width: 767px){
+    .banner-img-2{
+        top: 20px;
+    }
+    nav.navbar ul.left-menu{
+        display: none;
+    }
+    nav.navbar ul.right-menu li{
+        display: inline-block;
+    }
+    nav.navbar ul.right-menu{
+        display: inline-block;
+        width: 100%;
+        text-align: right;
+    }
+}
